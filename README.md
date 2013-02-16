@@ -1,4 +1,4 @@
 CSharp-Random-Stuff
 ===================
-
-Solutions to small and simple (or not so much) problems
+Here I will upload various small programs, illustrating the implementation of some algorithm or solving some task, 
+mostly from Telerik Academy.
