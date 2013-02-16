@@ -1,0 +1,10 @@
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Homework\Homework5_ClassesAndObjects\Problem07_ShuntingYard\obj\x86\Debug\Problem07_ShuntingYard.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Homework\Homework5_ClassesAndObjects\Problem07_ShuntingYard\obj\x86\Debug\Problem07_ShuntingYard.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Homework\Homework5_ClassesAndObjects\Problem07_ShuntingYard\bin\Debug\Problem07_ShuntingYard.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Homework\Homework5_ClassesAndObjects\Problem07_ShuntingYard\bin\Debug\Problem07_ShuntingYard.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Homework\Homework5_ClassesAndObjects\Problem07_ShuntingYard\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\ShuntingYard\obj\x86\Debug\Problem07_ShuntingYard.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\ShuntingYard\obj\x86\Debug\Problem07_ShuntingYard.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\ShuntingYard\bin\Debug\Problem07_ShuntingYard.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\ShuntingYard\bin\Debug\Problem07_ShuntingYard.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\ShuntingYard\obj\x86\Debug\ResolveAssemblyReference.cache

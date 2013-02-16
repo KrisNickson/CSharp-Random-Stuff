@@ -1,0 +1,10 @@
+C:\Users\ZeroReverse\Desktop\Algorthmz\BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZeroReverse\Desktop\Algorthmz\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\ZeroReverse\Desktop\Algorthmz\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\ZeroReverse\Desktop\Algorthmz\BinarySearch\obj\x86\Debug\BinarySearch.exe
+C:\Users\ZeroReverse\Desktop\Algorthmz\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\BinarySearch\obj\x86\Debug\BinarySearch.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\BinarySearch\bin\Debug\BinarySearch.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part II\Practice\Algorthmz\BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
