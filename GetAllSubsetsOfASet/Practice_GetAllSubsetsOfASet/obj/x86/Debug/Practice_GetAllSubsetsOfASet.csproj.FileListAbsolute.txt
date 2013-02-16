@@ -1,0 +1,5 @@
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part I\Practice\Practice_GetAllSubsetsOfASet\Practice_GetAllSubsetsOfASet\bin\Debug\Practice_GetAllSubsetsOfASet.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part I\Practice\Practice_GetAllSubsetsOfASet\Practice_GetAllSubsetsOfASet\bin\Debug\Practice_GetAllSubsetsOfASet.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part I\Practice\Practice_GetAllSubsetsOfASet\Practice_GetAllSubsetsOfASet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part I\Practice\Practice_GetAllSubsetsOfASet\Practice_GetAllSubsetsOfASet\obj\x86\Debug\Practice_GetAllSubsetsOfASet.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\C# Part I\Practice\Practice_GetAllSubsetsOfASet\Practice_GetAllSubsetsOfASet\obj\x86\Debug\Practice_GetAllSubsetsOfASet.pdb

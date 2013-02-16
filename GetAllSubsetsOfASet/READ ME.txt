@@ -1,0 +1,2 @@
+this is like combination WITHOUT repetition.
+ie: in each of the resulting subsets, an element of the input set can occour only once.
