@@ -1,0 +1,9 @@
+C:\Users\ZeroReverse\Desktop\RuntimeBenchmarkV2\RuntimeBenchmarkV2\bin\Debug\RuntimeBenchmarkV2.exe
+C:\Users\ZeroReverse\Desktop\RuntimeBenchmarkV2\RuntimeBenchmarkV2\bin\Debug\RuntimeBenchmarkV2.pdb
+C:\Users\ZeroReverse\Desktop\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZeroReverse\Desktop\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.exe
+C:\Users\ZeroReverse\Desktop\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.pdb
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\Projectz\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.exe
+D:\INFORMATICS STUFF\PC SCIENCE STUFF\Telerik Academy\Software Academy\Projectz\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.pdb
+D:\INFORMATICS STUFF\GIT HUB REP AND STUFF\CSharp-Random-Stuff\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.exe
+D:\INFORMATICS STUFF\GIT HUB REP AND STUFF\CSharp-Random-Stuff\RuntimeBenchmarkV2\RuntimeBenchmarkV2\obj\x86\Debug\RuntimeBenchmarkV2.pdb
