@@ -67,6 +67,7 @@ public class GenericList<T> where T:IComparable
         for (int i = 0; i < tempHolder.Length; i++)
         {
             this.container[i] = tempHolder[i];
+            this.notEmptyIndicator[i] = tempEmpty[i];
         }
     }
 
