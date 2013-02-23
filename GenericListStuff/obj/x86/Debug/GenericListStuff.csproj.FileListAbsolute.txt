@@ -1,0 +1,5 @@
+C:\Users\ZeroReverse\Desktop\Homework2-MoreOOP\GenericListStuff\bin\Debug\GenericListStuff.exe
+C:\Users\ZeroReverse\Desktop\Homework2-MoreOOP\GenericListStuff\bin\Debug\GenericListStuff.pdb
+C:\Users\ZeroReverse\Desktop\Homework2-MoreOOP\GenericListStuff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZeroReverse\Desktop\Homework2-MoreOOP\GenericListStuff\obj\x86\Debug\GenericListStuff.exe
+C:\Users\ZeroReverse\Desktop\Homework2-MoreOOP\GenericListStuff\obj\x86\Debug\GenericListStuff.pdb
